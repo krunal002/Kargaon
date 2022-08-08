@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Gotu&family=Nunito&display=swap');
 
 :root{
-    --primary-color: #09afbf;
+    --primary-color: #06959c;
     --off-white: #e2e8f0;
 }
 
@@ -130,7 +130,7 @@ a .nav-right{
 }
 
 .link-primary{
-    background-color: #22d3ee;
+    background-color: var(--primary-color);
     border-radius: 0.5rem;
     color: whitesmoke;
 }

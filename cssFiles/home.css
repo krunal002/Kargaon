@@ -103,6 +103,13 @@ a .nav-right{
     .map{
         padding: 3rem 0;
     }
+
+    footer a {
+        text-decoration: none;
+        padding: 0.5rem 0.5rem;
+        text-align: center;
+        color: var(--primary-color);
+    }
   }
 
 /* section */
